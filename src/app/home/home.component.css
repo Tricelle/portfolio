@@ -1,0 +1,26 @@
+.container-fluid{
+  padding-top: 110px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.about-me{
+  color: whitesmoke;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: 2px 2px black;
+}
+
+.portfolio-block.block-intro .avatar {
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 141px;
+  margin-bottom: 30px;
+}
+
+.name{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: whitesmoke;
+}
+
